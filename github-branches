@@ -1,8 +1,8 @@
 $ git branch -a -vv
-* bug-fix-revert                9f27b70 [origin/bug-fix-revert] Revert "Fix typo in README"
+  bug-fix-revert                4e00ff0 [origin/bug-fix-revert] Add assignment evidence files
   bug-fix-typo                  c789991 [origin/bug-fix-typo] Fix typo in README
-  main                          c789991 [origin/main] Fix typo in README
+* main                          8adb3a3 [origin/main] Update PR evidence
   remotes/origin/HEAD           -> origin/main
-  remotes/origin/bug-fix-revert 9f27b70 Revert "Fix typo in README"
+  remotes/origin/bug-fix-revert 4e00ff0 Add assignment evidence files
   remotes/origin/bug-fix-typo   c789991 Fix typo in README
-  remotes/origin/main           c789991 Fix typo in README
+  remotes/origin/main           8adb3a3 Update PR evidence
